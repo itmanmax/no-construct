@@ -1,7 +1,11 @@
 # No Construct
 
-A TypeScript project experiment. This repository remains public while the project direction is refined.
+一个 TypeScript 项目实验，当前保留为公开项目。
 
-## Status
+## 项目介绍
 
-This repository is kept public as part of the project portfolio. Future updates should add setup steps, screenshots, and deployment notes where relevant.
+这个仓库仍在整理方向中。它暂时作为公开实验项目保留，后续应补充明确的项目目标、功能说明、运行方式和截图。
+
+## 当前状态
+
+公开保留，等待进一步完善项目说明。
